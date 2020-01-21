@@ -51,10 +51,11 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -63,18 +64,27 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
+      "institution": "University of Hawaii Kapiolani Community College, Honolulu, HI",
+      "area": "Information and Communications Technologies (Graduated Fall, 2019)",
+      "studyType": "AS",
+      "startDate": "2017-08-15",
+      "endDate": "2019-12-20",
+      "gpa": "3.95",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "",
       "courses": [
