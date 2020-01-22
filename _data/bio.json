@@ -78,15 +78,15 @@
       "endDate": "2019-12-20",
       "gpa": "3.95",
       "courses": [
-        "ITS 122": "Cybersecurity Fundamentals",
-        "ITS 124": "Small Business Networking",
-        "ITS 128": "Problem Solving & Programming Process",
-        "ITS 129": "Introduction to Databases",
-        "ICS 111": "Intro to Computer Science I",
-        "ICS 141": "Discrete Math for CS I",
-        "ICS 211": "Intro to Computer Science II",
-        "ICS 241": "Discrete Math for Comp Sci II",
-        "ICS 212": "Program Structure"
+        "ITS 122: Cybersecurity Fundamentals",
+        "ITS 124: Small Business Networking",
+        "ITS 128: Problem Solving & Programming Process",
+        "ITS 129: Introduction to Databases",
+        "ICS 111: Intro to Computer Science I",
+        "ICS 141: Discrete Math for CS I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 241: Discrete Math for Comp Sci II",
+        "ICS 212: Program Structure"
       ]
     },
     {
@@ -97,8 +97,8 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "EE 367/L": "Computer Data Structures & Algorithms",
-        "ICS 314": "Software Engineering I"
+        "EE 367/L: Computer Data Structures & Algorithms",
+        "ICS 314: Software Engineering I"
       ]
     }
   ],
