@@ -78,6 +78,15 @@
       "endDate": "2019-12-20",
       "gpa": "3.95",
       "courses": [
+        "ITS 122": "Cybersecurity Fundamentals",
+        "ITS 124": "Small Business Networking",
+        "ITS 128": "Problem Solving & Programming Process",
+        "ITS 129": "Introduction to Databases",
+        "ICS 111": "Intro to Computer Science I",
+        "ICS 141": "Discrete Math for CS I",
+        "ICS 211": "Intro to Computer Science II",
+        "ICS 241": "Discrete Math for Comp Sci II",
+        "ICS 212": "Program Structure"
       ]
     },
     {
@@ -88,17 +97,19 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "EE 367/L": "Computer Data Structures & Algorithms",
+        "ICS 314": "Software Engineering I"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "STAR at UH Manoa",
+      "position": "Assistant Front End Developer",
+      "website": "http://star.hawaii.edu",
+      "startDate": "2015-01-09",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist front end developers with current projects.",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
@@ -114,33 +125,6 @@
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
