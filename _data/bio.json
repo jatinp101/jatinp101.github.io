@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://jatinp101.github.io/images/JatinPadya (1).jpg",
     "email": "jatinp@hawaii.edu",
-    "phone": "808-425-8867",
+    "phone": "",
     "website": "https://jatinp101.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96825",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -107,7 +107,7 @@
       "company": "STAR at UH Manoa",
       "position": "Assistant Front End Developer",
       "website": "http://star.hawaii.edu",
-      "startDate": "2015-01-09",
+      "startDate": "2020-01-09",
       "endDate": "Present",
       "summary": "Assist front end developers with current projects."
     },
@@ -120,18 +120,30 @@
       "summary": "Assist students taking lower level STEM Classes."
     }
   ],
+  "activities": [
+    {
+      "organization": "Hawaii Advanced Technology Society (HATS)",
+      "website": "",
+      "position": "President",
+      "startDate": "2018-01-01",
+      "endDate": "Present",
+      "summary": "Lead club on different projects and manage members.",
+      "highlights": [
+      ]
+    }
+  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List 2019 KCC ",
+      "date": "2019",
+      "awarder": "Kapiolani Community College",
+      "summary": "Awarded to students who recieved a 3.5+ gpa for the academic year of 2018-2019."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List 2018 KCC",
+      "date": "2018",
+      "awarder": "Kapiolani Community College",
+      "summary": "Awarded to students who recieved a 3.5+ gpa for the academic year of 2017-2018."
     }
   ],
   "references": [
