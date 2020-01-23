@@ -12,4 +12,4 @@ labels:
   - C
 summary: For my ICS 212 class I implemented the SHA-1 algorithm in C.
 ---
-<img class="ui image" scr="../images/outputSHA1.png">
+<img class="ui fluid image" scr="../images/outputSHA1.png">
