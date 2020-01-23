@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="medium ui image" src="../images/JavaScript-Java.jpg">
+
 ## Isn't it the same though?
 
 When first starting my journey into JavaScript I expected it to be similar to Java syntax wise just like as when I learned how to program in C/C++. But when going into the depths of JavaScript I was decieved to find another way to declare classes and a different way to create structures. Add on top of that the idea that a variable can be any data type is a blessing and a curse in a way. With all these features it makes JavaScript a language that divides many programmers in to two seperate camps those who love JavaScript and those who think it sucks.
