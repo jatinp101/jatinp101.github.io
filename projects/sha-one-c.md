@@ -12,4 +12,8 @@ labels:
   - C
 summary: For my ICS 212 class I implemented the SHA-1 algorithm in C.
 ---
-<img class="ui fluid image" scr="../images/outputSHA1.png">
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/outputSHA1.png">
+  <img class="ui image" src="../images/binary-code.jpg">
+</div>
