@@ -13,6 +13,7 @@ labels:
 summary: Automating the process of creating timetables for classrooms by applying Monte Carlo and Simulated Annealing algorithms.
 ---
 
+
 <img class="ui image" src="../images/simulated-annealing.jpeg">
 
 The purpose of this group project was to create a piece of software which could create timetables for classroom. The algorithms used in this program are the Monte Carlo and the Simulated Annealing algorithms. The Monte Carlo algorithm is an algorithm which creates random outputs and has a variance of mostly being correct with a few wrong outputs. The simulated annealing algorithm being a probabilistic algorithm which uses the physics topic of Annealing and applies it in this case the classes being the atoms.  We picked those algorithms because of how well it worked with the problem along with the research we did. 
