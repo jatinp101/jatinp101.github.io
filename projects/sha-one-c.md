@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SHA-1.svg/300px-SHA-1.svg.png
+image: images/SHA-ONE.png
 title: SHA-1 Implementation in C
 permalink: projects/shaOne
 # All dates must be YYYY-MM-DD format!
@@ -12,3 +12,4 @@ labels:
   - C
 summary: For my ICS 212 class I implemented the SHA-1 algorithm in C.
 ---
+<img class="SHA-1 Output" scr="images/outputSHA1.png"> 
