@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Is There No Such Thing as a Stupid Question?
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-22
+date: 2020-01-29
 labels:
   - Software Engineering
   - Learning
