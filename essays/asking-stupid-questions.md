@@ -15,7 +15,7 @@ When you were in school the number one thing teachers would always say to studen
 
 ## What do you mean?
 
-If you remember back in school when the person next to you might have asked you "I don't know what to do can you help me?" or even the whole dialoge of going through "I don't understand it" then asking "What don't you understand" when them answering "Everything". With our first "not so smart question" we look at 
+If you remember back in school when the person next to you might have asked you "I don't know what to do can you help me?" or even the whole dialoge of going through "I don't understand it" then asking "What don't you understand" when them answering "Everything". With our first "not so smart question" we look at this question <a href="https://stackoverflow.com/questions/26325539/i-dont-know-what-to-do">"I don't know what to do."</a> This question is <b>HORRIBLE</b> it does not give any context to what the issue is besides the code doesn't work and when looking down at the comments I noticed this comment by a user saying "Might want to rephrase the question, I don't know what to do is very broad." This question can be made "smart" by adding the errors which was recieved and what the programmer wanted to do. In this example this is a good example of a "smart" question being on <a href="https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php">preventing SQL injection in PHP</a> this question is good because it is explicit in what the programmer wants to know and what how to protect their code from certain SQL codes. 
 
 ## What is the issue?
 
