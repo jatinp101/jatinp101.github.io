@@ -27,4 +27,4 @@ In IntelliJ there is a feature which checks all the Code Formatting plug-in's to
 
 ## Coding Standards Matter
 
-Overall coding standards matter as it can keep code from looking disorganized and messy. Solutions like checkstyle on JGrasp although yes do the trick and overtime gets the user to instinctively write neat code to avoid errors but overtime can start to nag the user. ESLint with IntelliJ so far looks like a happy medium for this problem but I can see how it can lead to complensy from the user to not bother to learn coding standards and rely on the plugin to take care of the issues for them. 
+Overall coding standards matter as it can keep code from looking disorganized and messy. Solutions like checkstyle on JGrasp although yes do the trick and overtime gets the user to instinctively write neat code to avoid errors but overtime can start to nag the user. ESLint with IntelliJ so far looks like a happy medium for this problem but I can see how it can lead to complacency from the user to not bother to learn coding standards and rely on the plugin to take care of the issues for them. 
