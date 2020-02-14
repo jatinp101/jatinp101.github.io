@@ -11,7 +11,7 @@ labels:
 
 ## This is very trivial
 
-Before coming into this class and using an IDE such as IntelliJ I used JGrasp which was a barebones IDE which did the basics such as compiling, debugging, running programs, and checking the style of the code and if it fit with 
+Before coming into this class and using an IDE such as IntelliJ I used JGrasp which was a barebones IDE which did the basics such as compiling, debugging, running programs, and checking the style of the code. When it came to checking the code with JGrasp the issue was that it nagged at you for certain coding errors and never really gave a clear enough explanation of what is wrong. So unfortunately my first experience to coding styles was ruined. But of course it did help me as it kept me in check by making sure that I did not cause any checkstyle errors. But by changing my IDE to IntelliJ it did help make it easier to fix the errors instead of having to manually go through each error and fix it.
 
 ## The best thing since sliced bread
 
@@ -23,4 +23,8 @@ Coming from using Checkstyle on Java to ESLint with Javascript is no comparison 
 
 ## That green checkmark
 
-In IntelliJ there is a feature which checks all the Code Formatting plug-in's to see whether the code is formatted correctly and if IntelliJ finds that the code has been formatted correctly it will display a checkmark on the top right hand corner of the editor. 
+In IntelliJ there is a feature which checks all the Code Formatting plug-in's to see whether the code is formatted correctly and if IntelliJ finds that the code has been formatted correctly it will display a checkmark on the top right hand corner of the editor. Overall I feel like that it is pretty easy to get the green check mark but I can understand how at first it can be a learning curve in this class to get used to the new coding style.
+
+## Coding Standards Matter
+
+Overall coding standards matter as it can keep code from looking disorganized and messy. Solutions like checkstyle on JGrasp although yes do the trick and overtime gets the user to instinctively write neat code to avoid errors but overtime can start to nag the user. ESLint with IntelliJ so far looks like a happy medium for this problem but I can see how it can lead to complensy from the user to not bother to learn coding standards and rely on the plugin to take care of the issues for them. 
