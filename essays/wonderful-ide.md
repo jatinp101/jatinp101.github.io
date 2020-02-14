@@ -9,6 +9,10 @@ labels:
   - Learning
 ---
 
+## This is very trivial
+
+Before coming into this class and using an IDE such as IntelliJ I used JGrasp which was a barebones IDE which did the basics such as compiling, debugging, running programs, and checking the style of the code and if it fit with 
+
 ## The best thing since sliced bread
 
 Imagine the ability to program and your editor being able to catch all the errors you make without having to even run the code. Did you also want to clean up your code without having to leave what you were doing to fix styling errors. Say no more now with IntelliJ and ESLint your worries are now resolved. Now if you make an error IntelliJ will instantly find the error and point it out with a red squiggle on the bottom of the error. As you can tell my first week using ESLint with IntelliJ have been great so far. Dealing with coding styles was not as painful as I imagined like how it is with checkstyle using Java.
@@ -19,4 +23,4 @@ Coming from using Checkstyle on Java to ESLint with Javascript is no comparison 
 
 ## That green checkmark
 
-In IntelliJ there is a feature which checks 
+In IntelliJ there is a feature which checks all the Code Formatting plug-in's to see whether the code is formatted correctly and if IntelliJ finds that the code has been formatted correctly it will display a checkmark on the top right hand corner of the editor. 
