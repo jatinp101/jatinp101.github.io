@@ -1,5 +1,4 @@
 ---
-published: false
 layout: essay
 type: essay
 title: The Train has Left the Station
