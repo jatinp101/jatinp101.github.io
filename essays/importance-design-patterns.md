@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns: The Pea's and Carrot's of Software Engineering
+title: Design Patterns: Win for Productivity
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-30
 labels:
