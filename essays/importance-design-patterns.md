@@ -9,14 +9,14 @@ labels:
   - Learning
 ---
 
+## Design Patterns are Kind of Like History
+
 <blockquote>
 "Patterns help newbies acquire the hard-won experience of ninjas."
 <footer>
 -Phillip Johnson
 </footer>
 </blockquote>
-
-## Design Patterns are Kind of Like History
 
 Design Patterns are essentially different methods of programming which are tailored to different situations. You could use Model-View-Controller's (MVC)'s which are primarily used in web development with Model being used in backend development like working with data, View working frontend interfaces, and Controller being what connects the two. These are often very useful in Software Engineering as it takeout a lot of the guess work for many beginning engineers and gives them a good foundation to work from. But just like how in history we learn not to repeat mistakes in software engineering there are a types of design patterns which should not be used called Anti-Patterns's. Anti-Pattern's are design patterns which should not be implemented in code for example, Copy and Paste is a type of Anti Pattern which essentially based on its name from what you can tell essentially is code which has been copied and pasted from another part of the program which the usually solution is to create a function to fix it.
 
