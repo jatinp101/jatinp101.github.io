@@ -36,3 +36,9 @@ To make sure students are following campus rules on the site we have an admin pa
 
 <img class="ui centered large image" src="../images/link-up-manoa-admin.png">
 
+My contribution to this project was working on pages such as the User Profile page, the Admin Page, and the user sign-up page. I mainly worked using the User API I created to manage and create user profiles and help my group members implement API's using the User API I created. The difficulties I faced in this project was going through data in several of the pages and displaying it and additionally adding users to the user database. The following image below is the sign-up page I made to allow for seamless user creation.
+
+<img class="ui centered large image" src="../images/link-up-manoa-register.png">
+
+
+
