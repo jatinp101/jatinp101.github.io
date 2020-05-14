@@ -54,8 +54,15 @@
         "C#",
         "Java",
         "Javascript",
+        "JSON",
+        "React",
+        "AngularJS",
+        "AngularJS Material",
         "HTML",
         "CSS",
+        "Semantic UI",
+        "Semantic UI React",
+        "NoSQL",
         "SQL"
       ]
     },
@@ -65,8 +72,11 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Meteor",
+        "Microsoft SQL Server",
+        "MongoDB",
         "Windows",
-        "Git/GitHub"
+        "Git/GitHub/GitKraken"
       ]
     }
   ],
@@ -99,7 +109,9 @@
       "gpa": "",
       "courses": [
         "EE 367/L: Computer Data Structures & Algorithms",
-        "ICS 314: Software Engineering I"
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I (Currently Taking)",
+        "ICS 414: Software Engineering II (Currently Taking)"
       ]
     }
   ],
