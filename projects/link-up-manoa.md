@@ -23,5 +23,13 @@ Link-Up-Manoa is platform created for students to create study groups and join s
 
 Additionally students can request tutors to attend these study group sessions on the tutor page. The page is targeted for users based on what classes the users are taking. Tutors are selected by the classes they have taken and the tutors are placed in a ranking based on the ratings users have given. The following image below shows the tutor list.
 
-<img class="ui centered large image" src="../images/link-up-manoa-tutor.png.png">
+<img class="ui centered large image" src="../images/link-up-manoa-tutor.png">
+
+For students who are looking to meet other students to collaborate with we created a friends page for students to meet other students. This is helpful as classes at UH Manoa are large which does not really allow students to meet other students who are in the same major and it can connect people together who have similar interests and who are in the same major. Below is an image of the friends page.
+
+<img class="ui centered large image" src="../images/link-up-manoa-friends.png">
+
+To make sure students are following campus rules on the site we have an admin page. On the admin page the admin has the ability to remove users who are not following the rules on the site. These admins would be advisors and administrators who would be moderating the site. The following image below shows the admin page.
+
+<img class="ui centered large image" src="../images/link-up-manoa-admin.png">
 
