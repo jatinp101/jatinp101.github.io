@@ -11,7 +11,7 @@ labels:
 
 ## This is very trivial
 
-Before coming into this class and using an IDE such as IntelliJ I used JGrasp which was a barebones IDE which did the basics such as compiling, debugging, running programs, and checking the style of the code. When it came to checking the code with JGrasp the issue was that it nagged at you for certain coding errors and never really gave a clear enough explanation of what is wrong. So unfortunately my first experience to coding styles was ruined. But of course it did help me as it kept me in check by making sure that I did not cause any checkstyle errors. But by changing my IDE to IntelliJ it did help make it easier to fix the errors instead of having to manually go through each error and fix it.
+Before coming into this class and using an IDE such as IntelliJ I used JGrasp which was a very simple IDE which did the basics such as compiling, debugging, running programs, and checking the style of the code. When it came to checking the code with JGrasp the issue was that it nagged at you for certain coding errors and never really gave a clear enough explanation of what is wrong. So unfortunately my first experience to coding styles was ruined. But of course it did help me as it kept me in check by making sure that I did not cause any checkstyle errors. But by changing my IDE to IntelliJ it did help make it easier to fix the errors instead of having to manually go through each error and fix it.
 
 ## The best thing since sliced bread
 
