@@ -42,6 +42,6 @@ My contribution to this project was working on pages such as the User Profile pa
 
 Overall in this project I gained experience in API creation, Data Management, Web Development, and project management. If I were to do this project again I would want to improve the friends page and see if we could add in a chat feature and have users be able to view each others profiles in a full page view rather than just viewing cards. Additionally I would like to have accounts tied to hawaii.edu emails through CAS integration.
 
-Source: <a href="https://link-up-manoa.github.io"><i class="large github icon "></i>jatinp101/ClassTimeTableScheduling</a> 
+Source: <a href="https://link-up-manoa.github.io"><i class="large github icon "></i>jlink-up-manoa/link-up-manoa</a> 
 
 
