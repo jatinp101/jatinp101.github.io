@@ -6,7 +6,7 @@
     "email": "jatinp@hawaii.edu",
     "phone": "",
     "website": "https://jatinp101.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Science at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -102,14 +102,14 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2022)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.S.",
       "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "EE 367/L: Computer Data Structures & Algorithms (Currently Taking - Spring 2020)",
-        "ICS 314: Software Engineering I (Currently Taking - Spring 2020)",
+        "EE 367/L: Computer Data Structures & Algorithms",
+        "ICS 314: Software Engineering I",
         "ICS 321: Database Systems I (Currently Taking - Summer 2020)",
         "ICS 414: Software Engineering II (Currently Taking - Summer 2020)"
       ]
