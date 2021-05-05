@@ -12,6 +12,9 @@ labels:
   - Education
 summary: For my EE 396 project I created an instance of RadGrad for Computer Engineering major's at UH Manoa.
 ---
+
+<img class="ui image" src="../images/radgrad-ceng.png">
+
 ## What is RadGrad? Why have a RadGrad for CENG? 
 
 RadGrad is a platform that improves the experience STEM students have navigating through their degree. The goals of RadGrad are to improve retention in STEM, help students customize their undergrad experience to their interests and goals, and improve student engagement. RadGrad is necessary for Computer Engineering because although there are VIP and X96 Projects and other classes to students to choose from there is not a centralized place for students to navigate their interests and wisely select their X96 and technical electives.  
