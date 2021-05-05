@@ -31,6 +31,8 @@ To overcome the challenge of learning a new language I practiced and I spent tim
 
 <img class="ui image" src="../images/radgrad-ceng-levels-page.png">
 
+
+
 ##Conclusion
 
 In this project I created an instance of RadGrad for the Computer Engineering major. While working on this project I gained professional experience with working in a team of Software Engineers. I was able to develop an instance of the software RadGrad and have it reflect the needs of the Computer Engineering degree at UH Manoa. In the future a pilot study can be done to look at the effectiveness of RadGrad on Computer Engineering majors here at UH. I thank my advisor Dr. Philip Johnson for resources and support throughout the project. 
