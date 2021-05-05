@@ -6,7 +6,7 @@
     "email": "jatinp@hawaii.edu",
     "phone": "",
     "website": "https://jatinp101.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Science at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -49,11 +49,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Bash",
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "JavaScript",
         "JSON",
+        "MATLAB",
         "React",
         "AngularJS",
         "AngularJS Material",
@@ -62,7 +64,8 @@
         "Semantic UI",
         "Semantic UI React",
         "NoSQL",
-        "SQL"
+        "SQL",
+        "Verilog"
       ]
     },
     {
@@ -74,7 +77,9 @@
         "Meteor",
         "Microsoft SQL Server",
         "MongoDB",
+        "NI Multisim",
         "Windows",
+        "WordPress",
         "Git/GitHub/GitKraken"
       ]
     }
@@ -101,16 +106,19 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
+      "area": "Computer Engineering (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2020-01-13",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "EE 260 Intro to Digital Design",
         "EE 367/L: Computer Data Structures & Algorithms",
+        "EE 468 Intro to Operating Systems",
         "ICS 314: Software Engineering I",
-        "ICS 321: Database Systems I (Currently Taking - Summer 2020)",
-        "ICS 414: Software Engineering II (Currently Taking - Summer 2020)"
+        "ICS 321: Database Systems I",
+        "ICS 414: Software Engineering II",
+        "ICS 451 Data Networks"
       ]
     }
   ],
